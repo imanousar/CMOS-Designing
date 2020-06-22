@@ -9,22 +9,23 @@ Perform simulations to characterize the operational amplifier model available in
 2. Check the amplifier's frequency response (GBW),
 3. Check the response limitation due to the supply voltage and the slew rate.
 
+## Solution
 
-<p> align=center
-  img src =1.png width = 700 title=photo  
+<p align=center>
+  <img src =1.png width = 700 title=photo>  
 </p>
 
 
-<p> align=center
-  img src =2.png width = 700 title=photo  
+<p align=center>
+  <img src =2.png width = 700 title=photo> 
 </p>
 
 
-<p> align=center
-  img src =3.png width = 700 title=photo  
+<p align=center>
+  <img src =3.png width = 700 title=photo>  
 </p>
 
 
-<p> align=center
-  img src =4.png width = 700 title=photo  
+<p align=center>
+  <img src =4.png width = 700 title=photo>  
 </p>
