@@ -2,7 +2,6 @@
 
 
 ### Description of exercise
-<br><br>
 1.Determine the response of a simple RC filter to input square wave signal.
 Notes: parameters of the square wave - duration of the high state TH = 5 ms, rise and fall times 1 ns, period 10 ms. The simulation should last two periods of the square wave. Set the filter time constant to TH/5.
 <br><br>
@@ -14,6 +13,7 @@ Notes: filter time constant τ = 1 ms, sine wave frequency set equal to the filt
 Attach plot with input and output signals.
 <br><br>
 
+## Solution
 <p align="center">
   <img src ="part_1.png" width = "700" title="photo">  
 </p>
