@@ -1,5 +1,15 @@
-# CMOS-Designing 
+# Draw a NAND gate
 
-My lab exercises and my project for the course of CMOS designing at AGH University, Krakow, 2020.
+### Description of exercise
 
-``` Each folder contains more information for every project.```
+Draw a NAND gate according to movie. 
+
+Don't forget about n-well around p-mos transistors and at least one substrate and one well contacts.
+Label all inputs, output and supplies.
+
+## Solution
+<p align="center">
+  <img src ="NAND.png" width = "700" title="photo">  
+</p>
+
+
