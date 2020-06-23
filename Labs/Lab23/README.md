@@ -1,5 +1,14 @@
-# CMOS-Designing 
+# Draw multi-finger transistor
 
-My lab exercises and my project for the course of CMOS designing at AGH University, Krakow, 2020.
+### Description of exercise
 
-``` Each folder contains more information for every project.```
+Draw multi-finger transistor of size W / L = 100u / 2u:
+
+- Divide transistors for 5 fingers (elements).
+- Label terminals: Gate, Source, Drain.
+- In solution show screenshot without grid and attach magic file (.mag) with the design.
+
+## Solution
+<p align="center">
+  <img src ="five_fing_trans.png" width = "700" title="photo">  
+</p>
