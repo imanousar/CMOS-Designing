@@ -1,5 +1,19 @@
-# CMOS-Designing 
+# Draw AND gate
 
-My lab exercises and my project for the course of CMOS designing at AGH University, Krakow, 2020.
+### Description of exercise
+Based on the previous exercises draw an AND gate.
 
-``` Each folder contains more information for every project.```
+In CMOS technologies AND gate is just a NAND plus INV, so this exercise should be very easy if you have NAND gate and inverter from previous exercises. 
+
+Create hierarchical layout.
+Label all inputs, output and supplies.
+
+## Solution
+<p align="center">
+  <img src ="And (1).png" width = "700" title="photo">  
+</p>
+
+
+<p align="center">
+  <img src ="And 2.png" width = "700" title="photo">  
+</p>
