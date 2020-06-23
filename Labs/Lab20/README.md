@@ -11,6 +11,15 @@ In digital circuits typically substrate is connected to Gnd! and n-well to Vdd! 
 
 Auto-increment (also auto-decrement) function is described in section Labels of Tutorial 2: Basic Painting and Selection.
 
+Do the following:
+
+- place 4 inverter cells in a row (try array function);
+- connect inverter Vdd! & Gnd! nets;
+- add labels for supply and ground at top level;
+- add metal2 paths to each input and output
+- label all inputs as A_0, A_1, A_2, A_3;
+- label all outputs Q_0, Q_1, Q_2, Q_3.
+
 ## Solution
 <p align="center">
   <img src ="4-inv2.png" width = "700" title="photo">  
