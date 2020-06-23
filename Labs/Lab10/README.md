@@ -14,7 +14,7 @@ Attach only one plot. Label x-axis as Vds [V] and left axis as Id [A].
 
 ## Solution
 <p align="center">
-  <img src =Id_vds.png" width = "700" title="photo">  
+  <img src ="Id_vds.png" width = "700" title="photo">  
 </p>
 
 
