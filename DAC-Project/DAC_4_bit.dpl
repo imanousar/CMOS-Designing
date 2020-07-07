@@ -1,0 +1,47 @@
+<Qucs Schematic 0.0.22>
+<Properties>
+  <View=-272,-27,1638,1078,0.826446,68,1>
+  <Grid=10,10,0>
+  <DataSet=testing.dat>
+  <DataDisplay=testing.sch>
+  <OpenDisplay=1>
+  <Script=testing.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Title>
+  <FrameText1=Drawn By:>
+  <FrameText2=Date:>
+  <FrameText3=Revision:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Rect 1210 503 337 211 3 #c0c0c0 1 00 1 0 5 16 1 -0.5 2 6 1 -1 0.5 1 315 0 225 "" "" "">
+	<"ngspice/tran.v(din1)" #0000ff 2 3 0 0 0>
+  </Rect>
+  <Rect 1192 243 356 230 3 #c0c0c0 1 00 1 0 5 16 1 -0.5 2 6 1 -1 0.5 1 315 0 225 "" "" "">
+	<"ngspice/tran.v(din3)" #0000ff 2 3 0 0 0>
+  </Rect>
+  <Rect 770 235 330 235 3 #c0c0c0 1 00 1 0 2 16 1 -0.5 2 6 1 -1 0.5 1 315 0 225 "" "" "">
+	<"ngspice/tran.v(din4)" #0000ff 2 3 0 0 0>
+  </Rect>
+  <Rect 767 497 341 231 3 #c0c0c0 1 00 1 0 5 16 1 -0.5 2 6 1 -1 1 1 315 0 225 "" "" "">
+	<"ngspice/tran.v(din2)" #0000ff 2 3 0 0 0>
+  </Rect>
+  <Rect -64 500 784 507 3 #c0c0c0 1 00 1 0 2 16 1 -0.226239 0.5 2.5 1 -1 0.2 1 315 0 225 "" "" "">
+	<"ngspice/tran.v(vout)" #0000ff 2 3 0 0 0>
+  </Rect>
+  <Rect 50 962 1511 412 3 #c0c0c0 1 00 1 0 1 16 1 -0.0001 0.0001 0.000636687 1 -1 0.5 1 315 0 225 "time (s)" "" "">
+	<"ngspice/tran.i(vi1)" #0000ff 2 3 0 0 0>
+	<"ngspice/tran.i(vi2)" #ff0000 2 3 0 0 0>
+	<"ngspice/tran.i(vi3)" #ff00ff 2 3 0 0 0>
+	<"ngspice/tran.i(vi4)" #00ff00 2 3 0 0 0>
+	<"ngspice/tran.i(vi5)" #00ffff 2 3 0 0 0>
+  </Rect>
+</Diagrams>
+<Paintings>
+</Paintings>
